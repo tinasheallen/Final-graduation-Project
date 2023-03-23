@@ -1,0 +1,4 @@
+opencv-python
+pyusb
+imutils
+easydict
